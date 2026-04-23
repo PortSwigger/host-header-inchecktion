@@ -2,12 +2,12 @@ Uuid: 3908768b9ae945d8adf583052ad2e3b3
 ExtensionType: 1
 Name: Host Header Inchecktion
 RepoName: host-header-inchecktion
-ScreenVersion: 1.2.3
-SerialVersion: 5
-MinPlatformVersion: 0
+ScreenVersion: 1.3.0
+SerialVersion: 6
+MinPlatformVersion: 2
 ProOnly: True
 Author: Fabian Binna
 ShortDescription: Find host header injection vulnerabilities
-EntryPoint: build/libs/host_header_inchecktion-1.2.3.jar
+EntryPoint: host_header_inchecktion-1.3.0.jar
 BuildCommand: ./gradlew fatJar
 SupportedProducts: Pro
